@@ -1,0 +1,34 @@
+asjdkl1298ASD!@#
+qwerty123
+fakepassword: P@ssw0rd!
+email: notarealemail@example.com
+credit_card: 4111-1111-1111-1111
+phone: +91-9876543210
+
+lorem ipsum dolor sit amet 0987654321
+!@#$%^&*()_+}{":?><|}{":?><
+
+this is just random trash input with no real value
+asdkjhasd ASDKJH 12312983 4123412
+
+ZZZ-XCV-PLM-983
+0987-654-321
+trashinput: !!@##$%^^&&*(())__
+
+asjdh1283 ASDJKH!
+phone2: +91-1234567890
+
+base64: dGhpcyBpcyBhIGZha2UgdGVzdCBzdHJpbmc=
+random_hex: 5a3f9bde012f
+
+password123
+supersecretpassword!
+nosuchthing@email.com
+
+1234 5678 9012 3456
+0000 1111 2222 3333
+
+sadkljhwqopru12983u4r
+01010101010101010101
+
+random text, more junk, blah blah blah, testing data, fake entries, nothing useful here.

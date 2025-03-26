@@ -1,0 +1,30 @@
+# Emails
+normal.email@example.com
+weird.email+tag@example.co.uk
+"quoted.email"@example.org
+some.email@subdomain.example.com
+
+# Phone Numbers
++91 98765 43210
+919876543210
+9876543210
++91-9876543210
+
+# Credit Card Numbers (Valid Format but Fake)
+4111-1111-1111-1111
+5500 0000 0000 0004
+3400-000000-00009
+6011-0000-0000-0004
+
+# Passwords
+SecurePass123!
+Pass_with@Symbols$123
+Short1!
+UPPERlower123@
+
+# Tricky Cases (Edge cases for false positives)
+not.an.email@ but close
+contact_me_at_example.com
+My number is 98-76543210 (should not match)
+SecretCC: 1234-5678-9012-3456 (fake but tricky)
+Just some text with P@ssword but not a real password!
