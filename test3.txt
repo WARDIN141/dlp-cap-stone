@@ -1,0 +1,26 @@
+test_password: P@ssw0rd123!
+test_email: user@example.com
+test_credit_card: 4111-1111-1111-1111
+test_phone: +91-9876543210
+test_password_variation: "P@ssw0rd!", "password123", "qwerty", "letmein"
+test_email_variation: "admin@domain.com", "fake.email@provider.net", "user+tag@gmail.com"
+test_credit_card_variation: "5555-4444-3333-2222", "3782-822463-10005", "6011-1111-1111-1117"
+test_phone_variation: "+91-9988776655", "+1-234-567-8900", "+44-7777-888888"
+test_empty_string: ""
+test_long_string: "A" * 50000
+test_special_chars: "!@#$%^&*()_+-=[]{}|;:',.<>/?~`	"
+test_unicode: "こんにちは世界", "Привет мир", "你好世界", "안녕하세요 세계"
+test_whitespace: "     "
+test_null: null
+test_zero: 0
+test_negative_number: -9999999
+test_large_number: 9999999999999999999999999
+test_nonstandard_format: "1234-ABCD-5678-EFGH", "ZZZ-999-YYY-000"
+test_mixed_case_strings: "TestCaseString", "tEsT123Case"
+test_long_unicode: "𠜎𠜱𠝹𠱓𠴕𠵍𠵸𠶏𠷡𠸐𠺗𠼳𠽬"
+
+test_json: {"key": "value", "nested": {"subkey": "subvalue"}}
+test_json_complex: {"users": [{"name": "Alice", "email": "alice@example.com"}, {"name": "Bob", "email": "bob@example.com"}]}
+test_sql_injection: "' OR '1'='1' --", "DROP TABLE users;"
+test_script_injection: "alert('Hacked!');", ""
+test_command_injection: "; rm -rf /", "| cat /etc/passwd"
