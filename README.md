@@ -18,6 +18,4 @@ The logic for regex in these programs is kept generic as for to attain maximum a
 3) for the pwd regex i again took the generalised format which says that there has to be minimum of 8 characters,one uppercase letter,one lowercase letter,etc
 Pls note that the regex patters are subjective to change as per the environment for which the program is deployed in 
 
-These programs are hardcoded to to file locations on the device they were concieved on for any third party testing ,make sure you make the required changes in the file path and names to avoid any runtime error
-
 Another point to note is that these programs are bare bone shells of the aligned tasks,since they are succesful in establishing a base logic ,they are subjective to change when being upscaled for any other uses 
